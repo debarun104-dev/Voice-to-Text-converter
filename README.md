@@ -41,9 +41,6 @@ It takes in speech through your microphone and converts it to text.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=debarun104-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=debarun104-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
