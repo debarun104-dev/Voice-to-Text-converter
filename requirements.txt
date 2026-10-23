@@ -1,0 +1,6 @@
+Flask>=3.0.0
+Flask-Cors>=4.0.0
+SpeechRecognition>=3.10.0
+requests>=2.31.0
+gunicorn>=21.2.0
+pydub>=0.25.1

@@ -1,1 +1,12 @@
 .idea/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+env/
+*.wav
+*.webm
+*.ogg

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/transcribe",
+      "destination": "/api/index.py"
+    },
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index.py"
+    },
+    {
+      "source": "/style.css",
+      "destination": "/frontend/style.css"
+    },
+    {
+      "source": "/script.js",
+      "destination": "/frontend/script.js"
+    },
+    {
+      "source": "/",
+      "destination": "/frontend/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/frontend/$1"
+    }
+  ]
+}
