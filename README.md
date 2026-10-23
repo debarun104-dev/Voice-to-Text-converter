@@ -14,6 +14,7 @@ It takes in speech through your microphone and converts it to text.
 * 🤖 Here's where the voice to text converter drops in.
 * 📚 Just speak into the microphone whatever is in your mind.
 * 🌐 The system converts the speech to text.
+  
 *👨‍🏫 Then just copy paste the text wherever desired.
                                                       
                                                               
