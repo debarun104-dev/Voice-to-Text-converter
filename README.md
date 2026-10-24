@@ -7,6 +7,8 @@ Email Me 👉 ✉️ **debarun104@gmail.com** For contact. 😊😊
 
 ##click here to access the website: https://voice-to-text-converter-frontend.vercel.app/
 ---
+Problem: people waste most of their time writing long paragraphs of text. 
+SolutionThe Voice-to-Text-converter solves this problem by hearing the user's speech and converting it directly to text so that the user can directly copy-paste the converted text and use it anywhere. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debarun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debarun104@gmail.com) 
@@ -30,8 +32,6 @@ Email Me 👉 ✉️ **debarun104@gmail.com** For contact. 😊😊
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=debarun104-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=debarun104-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=debarun104-dev&icon=0&color=0)](https://visitcount.itsvg.in)
