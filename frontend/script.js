@@ -542,7 +542,7 @@
     formData.append('language', selectedLang);
 
     try {
-      const response = await fetch('/transcribe', {
+      const response = await fetch('https://voice-to-text-converter-80jb.onrender.com/transcribe', {
         method: 'POST',
         body: formData
       });
