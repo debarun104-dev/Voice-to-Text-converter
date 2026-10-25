@@ -10,8 +10,7 @@ Email Me 👉 ✉️ **debarun104@gmail.com** For contact. 😊😊
 Problem: people waste most of their time writing long paragraphs of text. 
 SolutionThe Voice-to-Text-converter solves this problem by hearing the user's speech and converting it directly to text so that the user can directly copy-paste the converted text and use it anywhere. 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debarun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debarun104@gmail.com) 
+## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debarun104@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
